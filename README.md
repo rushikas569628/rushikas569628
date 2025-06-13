@@ -1,9 +1,40 @@
-👋 **Hey!**, I am **rushika**
-- 🌱 I’m currently learning github,Java,Database Management(basics)
-- 🌱 With the learnings, I am using this GitHub tool to create my work.
-- 📫 you can reach me via email2rushikareddy@gmail.com
+# 👋 Hi, I'm Rushika Reddy Pingili
 
-<!---
-rushikas569628/rushikas569628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 M.S. in Computer Science | 💡 AI & Data Science Enthusiast
+
+---
+
+## 🚀 About Me
+
+I'm a passionate developer focused on building intelligent systems using Machine Learning, Deep Learning, and Conversational AI. I enjoy designing solutions that blend technical depth with real-world impact.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, Java, SQL, HTML/CSS  
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, FastAPI  
+- **Tools**: Git, Streamlit, Firebase, Docker, Jupyter  
+- **Domains**: NLP, Voice Analysis, Data Pipelines, Chatbots
+
+---
+
+## 🧠 Highlight Projects
+
+- **RAISE** – Real-time voice analysis app using Whisper, Pyannote, and emotion detection  
+- **Children Monitor App** – iOS app for real-time location and screen time tracking  
+- **Rent & Hire Car** – Full-stack Android app for car listing, booking, and renting  
+- **AskmyDoc** – Chatbot that summarizes and answers questions on academic papers
+
+> Check out my repositories to see more!
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [rushikapingili@gmail.com](mailto:rushikapingili@gmail.com)  
+- 📱 Phone: (512) 843-3304  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rushika-reddy-pingili/)  
+
+
+
