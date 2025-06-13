@@ -12,9 +12,9 @@ I'm a passionate developer focused on building intelligent systems using Machine
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, Java, SQL, HTML/CSS  
+- **Languages**: Python, Java, SQL, HTML/CSS, R, ML, DL 
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn, FastAPI  
-- **Tools**: Git, Streamlit, Firebase, Docker, Jupyter  
+- **Tools**: Git, Streamlit, Firebase, Render, Jupyter,VSCode, Anaconda  
 - **Domains**: NLP, Voice Analysis, Data Pipelines, Chatbots
 
 ---
